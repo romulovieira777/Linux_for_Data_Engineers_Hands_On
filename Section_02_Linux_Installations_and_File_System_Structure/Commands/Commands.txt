@@ -1,0 +1,8 @@
+cd etc
+cd /etc/
+ls -ltr
+history >> Commands.txt
+cd ..
+history >> Commands.txt
+ls
+history >> Commands.txt

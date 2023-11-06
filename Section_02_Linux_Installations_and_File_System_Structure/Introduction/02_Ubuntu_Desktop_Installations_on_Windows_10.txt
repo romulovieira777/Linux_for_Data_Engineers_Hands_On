@@ -1,0 +1,8 @@
+Ubuntu Desktop Installations on Windows 10
+
+Steps for Installing Ubuntu Desktop on Windows 10
+
+
+Complete steps to Install Ubuntu Desktop on Windows 10 is available here :
+
+https://https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview

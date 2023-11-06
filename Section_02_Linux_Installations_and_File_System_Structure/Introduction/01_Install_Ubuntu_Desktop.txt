@@ -1,0 +1,8 @@
+Install Ubuntu Desktop
+
+Steps for Installing Ubuntu Desktop
+
+
+Complete steps to Install Ubuntu Deskop is available here:
+
+https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview

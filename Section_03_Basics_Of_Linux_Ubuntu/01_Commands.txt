@@ -1,0 +1,15 @@
+ 1  pwd
+ 2  ls -ltr
+ 3  history Commands.txt
+ 4  history >>  Commands.txt
+ 5  sudo apt-get update
+ 6  sudo apt install nano
+ 7  man -f mkdir
+ 8  man 1 mkdir
+ 9  man 2 mkdir
+10  man -f print
+11  man 1 print
+12  cd Documents/
+13  ls
+14  ls -ltr
+15  cat README.txt

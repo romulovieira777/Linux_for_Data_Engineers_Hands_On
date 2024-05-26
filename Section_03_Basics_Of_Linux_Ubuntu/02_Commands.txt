@@ -1,0 +1,93 @@
+    1  pwd
+    2  ls -ltr
+    3  history Commands.txt
+    4  history >>  Commands.txt
+    5  sudo apt-get update
+    6  ~/.bash_history
+    7  sudo ~/.bash_history
+    8  rm ~/.zsh_history
+    9  sudo apt-get install wget insonia
+   10  sudo apt-get update
+   11  sudo apt-get install ifconfig
+   12  ping 
+   13  ping config
+   14  ip config
+   15  ping google.com
+   16  cd /home/
+   17  ls
+   18  mkdir mydir1
+   19  sudo mkdir mydir1
+   20  cd mydir1/
+   21  cd ..
+   22  cd /home/
+   23  ls -lth
+   24  rmdir mydir
+   25  rmdir mydir1
+   26  sudo rmdir mydir1
+   27  ls -ltr
+   28  exit
+   29  whereis java
+   30  cd /usr/share/java/
+   31  pw
+   32  pwd
+   33  cd
+   34  cat home.txt
+   35  tail home.txt
+   36  pwd
+   37  ls -ltr
+   38  cd Documents/
+   39  touch teste.csv
+   40  rouch zero.txt
+   41  ls -ltr
+   42  touch teste.txt
+   43  ls -ltr
+   44  mv teste.txt teste_01.txt
+   45  ls -ltr
+   46  rm teste_01.txt 
+   47  ls -ltr
+   48  ps
+   49  ps -el
+   50  kill -9 10
+   51  top
+   52  ls
+   53  cp teste.csv sample2.txt
+   54  ls -ltr
+   55  cp sample2.txt /home/romulo/Downloads/temp.txt
+   56  cd ..
+   57  cd Downloads/
+   58  ls -ltr
+   59  cd
+   60  cd Documents/
+   61  gzip teste.csv 
+   62  ls -ltr
+   63  zip teste.csv.gz teste.csv
+   64  zip teste.csv.gz test1e.csv
+   65  ls -ltr
+   66  zip sample2.zip sample2.txt 
+   67  ls -ltr
+   68  tar -xvf file.tar
+   69  ls -ltr
+   70  grep
+   71  grep one sample2.txt 
+   72  grep 1 sample2.txt 
+   73  grep - sample2.txt 
+   74  wc sample2.txt 
+   75  wc -l sample2.txt 
+   76  ls -ltr sys*
+   77  cd
+   78  cd /var/log/
+   79  ls -ltr sys*
+   80  pwd
+   81  less syslog
+   82  date
+   83  man date
+   84  df -h
+   85  du -sh
+   86  du -sh syslog
+   87  du -sh syslog.1
+   88  cd /home/
+   89  du -sh
+   90  top 
+   91  cd romulo/Documents/
+   92  history
+   93  history >> Commands.txt

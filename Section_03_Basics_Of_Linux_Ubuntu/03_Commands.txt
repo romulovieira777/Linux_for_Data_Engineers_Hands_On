@@ -1,0 +1,80 @@
+    1  pwd
+    2  ls -ltr
+    3  history Commands.txt
+    4  history >>  Commands.txt
+    5  sudo apt-get update
+    6  ~/.bash_history
+    7  sudo ~/.bash_history
+    8  rm ~/.zsh_history
+    9  sudo apt-get install wget insonia
+   10  sudo apt-get update
+   11  sudo apt-get install ifconfig
+   12  ping 
+   13  ping config
+   14  ip config
+   15  ping google.com
+   16  cd /home/
+   17  ls
+   18  mkdir mydir1
+   19  sudo mkdir mydir1
+   20  cd mydir1/
+   21  cd ..
+   22  cd /home/
+   23  ls -lth
+   24  rmdir mydir
+   25  rmdir mydir1
+   26  sudo rmdir mydir1
+   27  ls -ltr
+   28  exit
+   29  cd var/log
+   30  ls
+   31  cd ..
+   32  cd var/log
+   33  ls
+   34  CD
+   35  cd
+   36  cd /var/log
+   37  LS
+   38  ls
+   39  ls -ltr auth.log
+   40  cat auth.log
+   41  ls -ltr
+   42  cat lastlog 
+   43  ls -ltr
+   44  cat faillog 
+   45  ls -ltr
+   46  cat dpkg.log
+   47  cd
+   48  ls
+   49  cd Documents/
+   50  ls
+   51  ls -ltr
+   52  ls -ltr sample2.txt 
+   53  chmod 766 sample2.txt 
+   54  ls -ltr sample2.txt 
+   55  chmod 777 sample2.txt 
+   56  ls -ltr sample2.txt 
+   57  chmod 444 sample2.txt 
+   58  ls -ltr sample2.txt 
+   59  chmod 744 sample2.txt 
+   60  ls -ltr sample2.txt 
+   61  ls -ltr
+   62  nano file1.txt
+   63  cat file1.txt 
+   64  nano file1.txt
+   65  cat file1.txt 
+   66  nano file1.txt
+   67  cat file1.txt 
+   68  nano file2.txt
+   69  cat file2.txt 
+   70  ls -ltr
+   71  vi myfile.txt
+   72  cat myfile.txt 
+   73  vi myfile.txt
+   74  cat myfile.txt 
+   75  vi myfile.txt
+   76  cat myfile.txt 
+   77  vi myfile.txt
+   78  cat myfile.txt 
+   79  history -> Comands.txt
+   80  history > Comands.txt

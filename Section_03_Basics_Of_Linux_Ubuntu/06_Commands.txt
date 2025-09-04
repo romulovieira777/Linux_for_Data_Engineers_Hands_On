@@ -1,0 +1,2 @@
+nano interactivescript.sh
+./interactivescript.sh

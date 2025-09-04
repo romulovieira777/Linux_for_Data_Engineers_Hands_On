@@ -1,0 +1,2 @@
+nano untilscript.sh
+./untilscript.sh

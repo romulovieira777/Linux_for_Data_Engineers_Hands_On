@@ -1,0 +1,9 @@
+pwd
+ls -ltr
+nano examplescript.sh
+cat examplescript.sh
+ls -ltr examplescript.sh
+chmod 777 examplescript.sh
+clear
+./examplescript.sh
+bash examplescript.sh

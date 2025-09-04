@@ -1,0 +1,4 @@
+nano parascript.sh
+charmod 777 parascript.sh
+./parascript.sh abc xyz
+bash parascript.sh def pqr

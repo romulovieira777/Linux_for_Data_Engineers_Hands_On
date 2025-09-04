@@ -1,0 +1,6 @@
+ls -ltr
+nano interactivescript.sh
+chmod 777 interactivescript.sh
+ls -ltr
+clear
+./interactivescript.sh
